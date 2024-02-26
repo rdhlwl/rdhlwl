@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ravnoor Dhaliwal</h1>
+<h1 align="center">Hi, I'm Noor Dhaliwal</h1>
 <h3 align="center">A computer engineering student at Cal Poly SLO.</h3>
 
 <h3 align="center">Connect with me:</h3>
